@@ -29,7 +29,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # CONFIGURATION
 # ─────────────────────────────────────────────────────────────────────────────
 
-BOT_TOKEN = "8582647961:AAH2TzIGmo3Nxp5oZrLGEt8WgLZtQocPRBA"
+BOT_TOKEN = "7415995546:AAFGw-ri_WKkFagNju8Kd9vkoTxTvZn0TWs"
 HITS_FILE = "/tmp/autohitter_hits.json"   # change path if needed on Windows
 ADMIN_PORT = int(os.environ.get("PORT", "3000"))
 
